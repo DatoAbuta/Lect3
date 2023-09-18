@@ -1,0 +1,18 @@
+span{
+    color: blue;
+    background-color: brown;
+}
+
+table, th, td{
+        border: solid red 2px;
+        border-spacing: 2px;
+}
+
+th{
+    border: 2px dashed black;
+    background-color: lightblue;
+}
+
+td{
+    background-color: lightcoral;
+}
