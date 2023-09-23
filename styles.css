@@ -16,3 +16,9 @@ th{
 td{
     background-color: lightcoral;
 }
+
+path:hover{
+    fill: green;
+    transition: all .5s;
+
+}
